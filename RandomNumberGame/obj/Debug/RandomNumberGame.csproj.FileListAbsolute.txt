@@ -1,0 +1,10 @@
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\RandomNumberGame\RandomNumberGame\bin\Debug\RandomNumberGame.exe.config
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\RandomNumberGame\RandomNumberGame\bin\Debug\RandomNumberGame.exe
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\RandomNumberGame\RandomNumberGame\bin\Debug\RandomNumberGame.pdb
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.csprojAssemblyReference.cache
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.numberGameForm.resources
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.Properties.Resources.resources
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.csproj.GenerateResource.cache
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.exe
+C:\Users\thegi\Desktop\Chane\Education\2018-2020_NWU\2018\Second Semester\CMPG 122\Practicals\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.pdb
